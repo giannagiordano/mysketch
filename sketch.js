@@ -28,6 +28,7 @@ function draw(){
     background(228, 181, 252);
     fill (1);
 
+    //Stars in background
     image(img6, -250, -100, img.width, img.height)/6;
 
     //Interaction
