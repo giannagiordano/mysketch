@@ -9,5 +9,3 @@ For my first project, I created a piece called "momentum". I started working on 
 I chose a light purple color for the background and light green, pink, and yellow colors for the quotes because they are all calming to me. I added "Keep moving forward..." in a forward motion at the top of the sketch as a reminder that sums up what this piece means to me. I added stars to the top lefthand corner because I thought of the idea of wishing on shooting stars for your dreams to come true. Finally, I added a bit of interaction to my sketch by writing an 'if else' statement for the images at the center. Even though they're cliche, I love the words "dream", "love", "hope", "believe", and "faith". I included images with these words to further remind myself what keeps me going on hard days. When the mouse is clicked, the image switches from the words "dream", "love", "hope", "believe" to "Faith Hope & Love."
 
 In summary, this sketch is a representation of my personal "momentum" and I know that on tough days, I'll go back to it as a reminder to "Keep moving forward."
-
-[Click here!](https://deweyhagborg.com/projects/stranger-visions)
